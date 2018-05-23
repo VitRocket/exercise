@@ -23,34 +23,37 @@ XXXXXX
 * [Rectangle03](https://github.com/VitRocket/exercise/blob/master/src/main/java/draw/Rectangle03.java) - The Rectangle03
 
 ```
-111111
-222222
-333333
-444444
+123456
+123456
+123456
+123456
 ```
 * [Rectangle04](https://github.com/VitRocket/exercise/blob/master/src/main/java/draw/Rectangle04.java) - The Rectangle04
 
 ```
-111111
-222222
-333333
-444444
+X   X
+ X X 
+  X  
+ X X 
+X   X
 ```
 * [Rectangle05](https://github.com/VitRocket/exercise/blob/master/src/main/java/draw/Rectangle05.java) - The Rectangle05
 
 ```
-111111
-222222
-333333
-444444
+XXXXX
+   X 
+  X  
+ X   
+XXXXX
 ```
 * [Rectangle06](https://github.com/VitRocket/exercise/blob/master/src/main/java/draw/Rectangle06.java) - The Rectangle06
 
 ```
-111111
-222222
-333333
-444444
+XXXXX
+X   X
+X   X
+X   X
+XXXXX
 ```
 
 
