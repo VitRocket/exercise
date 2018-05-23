@@ -1,28 +1,22 @@
 package draw;
 
 /**
- * Created by VitRocket on 22.05.2018.
+ * 123456
+ * 123456
+ * 123456
+ * 123456
  */
-public class Rectangle {
+public class Rectangle03 {
 
     public static void main(String[] args) {
-
-        drawRectangle(3, 6);
-        drawRectangle(2, 2);
-
+        drawRectangle(4, 6);
     }
 
-    /**
-     * Вывести прямоугольник из звездочек в консоли
-     *
-     * @param height высота
-     * @param width  ширина
-     */
     private static void drawRectangle(int height, int width) {
         System.out.println("===============================");
         for (int i = 0; i < height; i++) {
             for (int j = 0; j < width; j++) {
-                System.out.print("*");
+                System.out.print(j + 1);
             }
             System.out.println();
         }
